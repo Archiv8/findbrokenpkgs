@@ -1,0 +1,4 @@
+PKGBUILD (findbrokenpkgs) W: Missing Maintainer tag
+Checking findbrokenpkgs-1.1-1-any.pkg.tar.zst
+findbrokenpkgs W: Dependency included and not needed ('binutils')
+findbrokenpkgs W: Dependency included and not needed ('pacman')
