@@ -8,7 +8,5 @@ pkgbase = findbrokenpkgs
 	depends = binutils
 	depends = pacman
 	source = findbrokenpkgs-1.1.sh
-	md5sums = ee683c467e4881736ed60a15ebbcc7a5
 
 pkgname = findbrokenpkgs
-
