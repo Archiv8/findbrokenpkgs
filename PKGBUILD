@@ -5,14 +5,11 @@
 # repository root directory, see https://github.com/koalaman/shellcheck/wiki
 # and https://archiv8.github.io for further information.
 # shellcheck disable=SC2034,SC2154
-# [ToDo]: Add files: Tooling
-# [ToDo]: Add files: User documentation
-# [Query]: Why is this package not following the recommended way of building
-# [Query]: No longer developed
+# ToDo: Add files: User documentation
+# ToDo: Add files: Tooling
+# FixMe: Namcap warnings and errors
 
-# Maintainer: Jaroslav Lichtblau <dragonlord@aur.archlinux.org>
-# Contributor: Stefan Husmann <stefan-husmann@t-online.de>
-# Contributor: Paul Bredbury <brebs@sent.com>
+# Maintainer: Ross Clark <archiv8@artisteducator.com>
 # Contributor: Ross Clark <archiv8@artisteducator.com>
 
 
